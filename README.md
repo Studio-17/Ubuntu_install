@@ -5,11 +5,8 @@
 
 ## How to use the script
 
-First you have to give the rights to the executable :
 
-```chmod +x ubuntu.sh```
-
-Then you execute the script :
+Execute the script :
 
 ```sudo ./ubuntu.sh```
 
@@ -20,6 +17,7 @@ Then you execute the script :
 - snap Library
 - CSFML
 - Python library
+- Epitech Dump languages
 
 <br>
 
