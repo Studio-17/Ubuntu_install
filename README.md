@@ -7,7 +7,7 @@
 
 First you have to give the rights to the executable :chmod +x csfml/install-csfml.sh ubuntu.shchmod +x csfml/install-csfml.sh ubuntu.sh
 
-```chmod +x csfml/install-csfml.sh ubuntu.sh```
+```chmod +x csfml/install-csfml.sh```
 
 Then you execute the script :
 
