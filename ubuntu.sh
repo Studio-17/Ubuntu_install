@@ -13,7 +13,7 @@ apt-get install build-essential -y
 apt-get install manpages-dev man-db manpages-posix-dev -y
 apt-get install emacs-nox -y
 apt-get install libx11-dev -y
-apt-get install -y python3-pip
+apt-get install -y python-pip
 apt-get install gdb -y
 apt-get install nmp -y
 apt-get install git -y
