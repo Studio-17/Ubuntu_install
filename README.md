@@ -5,9 +5,9 @@
 
 ## How to use the script
 
-First you have to give the rights to the executable :chmod +x csfml/install-csfml.sh ubuntu.shchmod +x csfml/install-csfml.sh ubuntu.sh
+First you have to give the rights to the executable :
 
-```chmod +x csfml/install-csfml.sh```
+```chmod +x ubuntu.sh```
 
 Then you execute the script :
 
