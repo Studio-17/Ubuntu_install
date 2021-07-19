@@ -54,8 +54,8 @@ apt-get upgrade -y
 
 printf '\x1B[37m[ INSTALLING PYHTON LIB \n\n\x1B[0m'
 
-pip3 install pytest
-pip3 install gcovr
+pip install pytest
+pip install gcovr
 
 apt upgrade -y
 
