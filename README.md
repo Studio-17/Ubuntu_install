@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9">
-<img src="https://img.shields.io/badge/Release-v1.0-32F906">
+<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> <img src="https://img.shields.io/badge/Release-v1.0-32F906">
 
 # Ubuntu Install
 
