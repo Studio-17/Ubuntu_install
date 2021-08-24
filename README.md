@@ -27,6 +27,7 @@ Then go in the repository and execute the script :
 - snap Library
 - CSFML
 - Python library
+- Usefull languages (NodeJs, Ruby, C++, PHP, Java)
 - Epitech Dump languages
 
 <br>
