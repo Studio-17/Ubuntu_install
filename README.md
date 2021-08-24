@@ -15,6 +15,12 @@ Then go in the repository and execute the script :
 
 <br>
 
+<img src="./star.png" height="50">
+
+**If you use the script please star it so other people can find and use it. Thanks!**
+
+<br>
+
 ### Description of the installation process :
 
 - Epitech essentials
