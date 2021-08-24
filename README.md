@@ -1,5 +1,7 @@
-# Ubuntu Install
+<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9">
+<img src="https://img.shields.io/badge/Release-v1.0-32F906">
 
+# Ubuntu Install
 
 >On this repository you will find a script that allows you to download everything you need to be able to work on projects at Epitech (at least the first year)
 
@@ -14,8 +16,6 @@ Then go in the repository and execute the script :
 ```sudo ./ubuntu.sh```
 
 <br>
-
-<img src="./star.png" height="50">
 
 **If you use the script please star it so other people can find and use it. Thanks!**
 
